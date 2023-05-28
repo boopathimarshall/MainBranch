@@ -19,7 +19,7 @@ public class TC003_Sample_Cucumber2 extends ProjectSpecificMethods{
 	
 	public void add()
 	{
-		System.out.println("Test method new one");
+		System.out.println("Test method new one added");
 	}
 	
 
